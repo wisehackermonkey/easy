@@ -29,17 +29,23 @@ cd easy
 ### -  *[License](#License)*
 
 
-<!-- 
---------------
-# Screenshots
-- <img src="NNNNNN" width="400"> 
- 
-
 -------------- 
 # Development
 ### 
 ```bash
+python3 easy.py 
+python3 easy.py --required
+python3 easy.py --required True 
+python3 easy.py --required True --API_KEY=bruh
+# python3 easy.py --required True --API_KEY=bruh --captcha
+
 ```
+<!-- 
+
+--------------
+# Screenshots
+- <img src="NNNNNN" width="400"> 
+ 
 
 ---
 # Links
