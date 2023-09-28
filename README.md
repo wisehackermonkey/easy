@@ -6,9 +6,9 @@
 <!-- <img src="NNNNNN" width="400"> -->
 
 
-<h2 align="center">a fiendishly hard to run command line app that prints 'ls -hal'</h2>
+<h2 align="center">the easiest way to list directories</h2>
 
-<h4 align="center">________________________</h4>
+<h4 align="center">a fun command line game that replicates https://userinyerface.com/ but for the console</h4>
 
 ---
 
