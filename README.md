@@ -6,7 +6,7 @@
 <!-- <img src="NNNNNN" width="400"> -->
 
 
-<h2 align="center">____________________</h2>
+<h2 align="center">a fiendishly hard to run command line app that prints 'ls -hal'</h2>
 
 <h4 align="center">________________________</h4>
 
